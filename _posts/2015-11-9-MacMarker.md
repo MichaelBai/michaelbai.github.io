@@ -9,7 +9,7 @@ MacMarker is a Macintosh-ic marker tool, build with original API of Mac, that wi
 
 ### Download
 
-Download [MacMarker 1.0.0]({{ site.baseurl }}/Archive/MacMarker.zip) now and any suggestions are welcome!
+Download [MacMarker 1.0.0]({{ site.baseurl }}/Archive/MacMarker-1.0.0.zip) now and any suggestions are welcome!
 
 ### Trouble Shooting
 
