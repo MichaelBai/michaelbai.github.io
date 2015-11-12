@@ -6,11 +6,10 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.2</title>
+            <title>Version New</title>
             <sparkle:releaseNotesLink>http://macmarker.com/Archive/release_notes.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:version>0.5</sparkle:version>
             <link>http://macmarker.com</link>
         </item>
     </channel>
