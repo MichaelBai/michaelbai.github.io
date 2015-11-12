@@ -1,12 +1,17 @@
 ---
 layout: post
-title: MacMarker - Another marker tool on Mac
+title: MacMarker 1.0.0
 ---
+
+### At a Glance
 
 MacMarker is a Macintosh-ic marker tool, build with original API of Mac, that will give you a smooth experience of marking. 
 
-Download the beta version now and any suggestions are welcome!
-[MacMarker 1.0 beta]({{ site.baseurl }}/Archive/MacMarker.zip)
+### Download
+
+Download [MacMarker 1.0.0]({{ site.baseurl }}/Archive/MacMarker.zip) now and any suggestions are welcome!
+
+### Trouble Shooting
 
 Unzip and click the MacMarker.app to use, if Apple block you with as below
 

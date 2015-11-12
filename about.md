@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Profile
+I'm Michael Bai, an iOS developer in Beijing. You can find my full work experience at [LindedIn](http://www.linkedin.com/profile/view?id=AAMAAARhLh0BlqDxrha0FRVBEIT1mURziHJS53Q).
 
-### More Information
+Outside the work I'm interested in learning Chinese traditional culture, reading history and geogrophy books, watching Marvel movies, etc.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Other Personal Projects
+
+- iOS App《[百家姓起源](https://itunes.apple.com/US/app/id892773059)》
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bailu1234@126.com](mailto:bailu1234@126.com)
