@@ -15,4 +15,4 @@ Outside the work I'm interested in learning Chinese traditional culture, reading
 
 ### Contact me
 
-[bailu1234@126.com](mailto:bailu1234@126.com)
+[bailu1234@gmail.com](mailto:bailu1234@gmail.com)
