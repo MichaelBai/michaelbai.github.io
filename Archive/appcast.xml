@@ -9,8 +9,8 @@
             <title>Version New</title>
             <sparkle:releaseNotesLink>http://macmarker.com/Archive/release_notes.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <link>http://macmarker.com</link>
         </item>
     </channel>
