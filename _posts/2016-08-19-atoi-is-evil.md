@@ -8,7 +8,7 @@ tags:
     - C
 ---
 
-在做LeetCode上面的 "8. String to Integer (atoi)" 这道题目的时候，发现atoi()在处理溢出的时候，行为是不可知的
+在做LeetCode上面的 "8. String to Integer (atoi)" 这道题目的时候，发现atoi()在处理溢出的时候行为很奇怪：
 
 ```
 #include <stdio.h>
